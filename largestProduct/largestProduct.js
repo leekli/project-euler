@@ -1,3 +1,6 @@
+// https://projecteuler.net/problem=11
+// Problem 11 - Largest product in a grid
+
 function largestProduct(grid) {
   let greatestProductTotal = 0;
   let currentSum = 0;
